@@ -72,7 +72,7 @@ Our Logviewer will save the threads so you can view previous threads through the
   * Markdown/formatting support.
   * Login via Discord to protect your logs ([premium Patreon feature](https://patreon.com/kyber)).
   * See past logs of a user with `?logs`.
-  * Searchable by text queries using `?logs search`.
+* ** Searchable by text queries using `?logs search`.
 
 * **Robust implementation:**
   * Schedule tasks in human time, e.g. `?close in 2 hours silently`.
